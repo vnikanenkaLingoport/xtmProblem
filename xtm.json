@@ -3,11 +3,11 @@
         "camera": {
             "settings": {
                 "network": {
-                    "negotiate_speed": "Auto {speed}",
+                    "_negotiate_speed": "Auto {speed}",
                     "auth": {
-                        "header": "Authentication",
+                        "_1header": "Authentication",
                         "_802_1x": "802.1x",
-                        "profile": {
+                        "_1_profile": {
                             "title": "Profile",
                             "example_placeholder": "Auth Profile",
                             "example_list_element": "Example Profile"
@@ -17,7 +17,7 @@
                         },
                         "placeholder": "Profile 1"
                     },
-                    "eap_identity": {
+                    "_aa_eap_identity": {
                         "title": "EAP Identity",
                         "placeholder": "Identity"
                     },
