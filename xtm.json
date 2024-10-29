@@ -21,7 +21,7 @@
                         "title": "EAP Identity",
                         "placeholder": "Identity"
                     },
-                    "tls_client_cert": {
+                    "_22tls_client_cert": {
                         "title": "TLS Client Certificates"
                     },
                     "private_key": {
