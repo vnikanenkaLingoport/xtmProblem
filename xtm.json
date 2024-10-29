@@ -17,9 +17,9 @@
                             "title3": "Profile",
                             "example_placeholder3": "Auth Profile",
                             "example_list_element3": "Example Profile"
-                            "title3": "Profile",
-                            "example_placeholder3": "Auth Profile",
-                            "example_list_element3": "Example Profile"
+                            "title4": "Profile",
+                            "example_placeholder4": "Auth Profile",
+                            "example_list_element4": "Example Profile"
                         },
                         "config_name": {
                             "title": "Configuration Name"
