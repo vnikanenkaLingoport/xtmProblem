@@ -24,7 +24,7 @@
                     "22tls_client_cert": {
                         "title": "TLS Client Certificates"
                     },
-                    "_3private_key": {
+                    "3private_key": {
                         "title": "Private Key"
                     },
                     "private_key_pwd": {},
