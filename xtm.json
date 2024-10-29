@@ -7,12 +7,12 @@
                     "auth": {
                         "_1header": "Authentication",
                         "_802_1x": "802.1x",
-                        "1_profile": {
+                        "profile": {
                             "title": "Profile",
                             "example_placeholder": "Auth Profile",
                             "example_list_element": "Example Profile"
                         },
-                        "config_name": {
+                        "_config_name": {
                             "title": "Configuration Name"
                         },
                         "placeholder": "Profile 1"
