@@ -1,13 +1,15 @@
-"test": {
-  "test2": {
-    "test3": {
-      "innerTest": "Inner",
-      "_TEST_1": "test1",
-      "innerTest2": {
-        "after1": "after1",
-        "after2": "after2",
-        "after3": "after3"
-      }
+{
+    "test": {
+        "test2": {
+            "test3": {
+                "innerTest": "Inner",
+                "_TEST_1": "test1",
+                "innerTest2": {
+                    "after1": "after1",
+                    "after2": "after2",
+                    "after3": "after3"
+                }
+            }
+        }
     }
-  }
 }
