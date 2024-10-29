@@ -5,9 +5,9 @@
                 "network": {
                     "negotiate_speed": "Auto {speed}",
                     "auth": {
-                        "_1header": "Authentication",
+                        "1header": "Authentication",
                         "_802_1x": "802.1x",
-                        "_1_profile": {
+                        "1_profile": {
                             "title": "Profile",
                             "example_placeholder": "Auth Profile",
                             "example_list_element": "Example Profile"
@@ -17,7 +17,7 @@
                         },
                         "placeholder": "Profile 1"
                     },
-                    "_aa_eap_identity": {
+                    "aa_eap_identity": {
                         "title": "EAP Identity",
                         "placeholder": "Identity"
                     },
