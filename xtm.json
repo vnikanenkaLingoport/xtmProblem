@@ -10,7 +10,7 @@
                         "profile": {
                             "title": "Profile",
                             "example_placeholder": "Auth Profile",
-                            "example_list_element": "Example Profile"
+                            "example_list_element": "Example Profile",
                             "title2": "Profile",
                             "example_placeholder2": "Auth Profile",
                             "example_list_element2": "Example Profile"
