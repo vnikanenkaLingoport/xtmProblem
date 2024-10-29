@@ -1,0 +1,38 @@
+{
+    "shared": {
+        "camera": {
+            "settings": {
+                "network": {
+                    "negotiate_speed": "Auto {speed}",
+                    "auth": {
+                        "_1header": "Authentication",
+                        "_802_1x": "802.1x",
+                        "profile": {
+                            "title": "Profile",
+                            "example_placeholder": "Auth Profile",
+                            "example_list_element": "Example Profile"
+                        },
+                        "config_name": {
+                            "title": "Configuration Name"
+                        },
+                        "_placeholder": "Profile 1"
+                    },
+                    "aa_eap_identity": {
+                        "title": "EAP Identity",
+                        "placeholder": "Identity"
+                    },
+                    "22tls_client_cert": {
+                        "title": "TLS Client Certificates"
+                    },
+                    "3private_key": {
+                        "title": "Private Key"
+                    },
+                    "private_key_pwd": {},
+                    "title": "Private Key Password",
+                    "placeholder": "Passwords",
+                    "authenticate_server": "Authenticate Server"
+                }
+            }
+        }
+    }
+}
