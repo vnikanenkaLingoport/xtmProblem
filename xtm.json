@@ -5,7 +5,7 @@
                 "network": {
                     "negotiate_speed": "Auto {speed}",
                     "auth": {
-                        "1header": "Authentication",
+                        "_1header": "Authentication",
                         "_802_1x": "802.1x",
                         "1_profile": {
                             "title": "Profile",
