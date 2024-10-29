@@ -1,50 +1,20 @@
 {
-    "shared": {
-        "camera": {
-            "settings": {
-                "network": {
-                    "negotiate_speed": "Auto {speed}",
-                    "auth": {
-                        "_1header": "Authentication",
-                        "_802_1x": "802.1x",
-                        "_803_1x": "803.1x",
-                        "profile": {
-                            "title": "Profile",
-                            "example_placeholder": "Auth Profile",
-                            "example_list_element": "Example Profile",
-                            "title2": "Profile",
-                            "example_placeholder2": "Auth Profile",
-                            "example_list_element2": "Example Profile",
-                            "title3": "Profile",
-                            "example_placeholder3": "Auth Profile",
-                            "example_list_element3": "Example Profile",
-                            "title4": "Profile",
-                            "example_placeholder4": "Auth Profile",
-                            "example_list_element4": "Example Profile"
-                        },
-                        "_1aaa": "aaa",
-                        "kra": "a",
-                        "config_name": {
-                            "title": "Configuration Name"
-                        },
-                        "_placeholder": "Profile 1"
-                    },
-                    "aa_eap_identity": {
-                        "title": "EAP Identity",
-                        "placeholder": "Identity"
-                    },
-                    "22tls_client_cert": {
-                        "title": "TLS Client Certificates"
-                    },
-                    "3private_key": {
-                        "title": "Private Key"
-                    },
-                    "private_key_pwd": {},
-                    "title": "Private Key Password",
-                    "placeholder": "Passwords",
-                    "authenticate_server": "Authenticate Server"
-                }
-            }
-        }
+    "_______test": "test",
+    "test": {
+        "1a": "1a",
+        "2a": "2a",
+        "3a": "1a",
+        "4a": "2a",
+        "5a": "1a",
+        "6a": "2a",
+        "7a": "1a",
+        "8a": "2a",
+        "9a": "1a",
+        "10a": "2a",
+        "11a": "1a",
+        "12a": "2a",
+        "13a": "1a",
+        "14a": "2a",
     }
+    "_702bbbb_1": "11adsadsa"
 }
