@@ -3,7 +3,7 @@
         "camera": {
             "settings": {
                 "network": {
-                    "_negotiate_speed": "Auto {speed}",
+                    "negotiate_speed": "Auto {speed}",
                     "auth": {
                         "_1header": "Authentication",
                         "_802_1x": "802.1x",
