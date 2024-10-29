@@ -1,14 +1,35 @@
 {
-    "test": {
-        "test2": {
-            "test3": {
-                "innerTest": "Inner",
-                "_TEST1": "test1",
-                "innerTest2": {
-                    "after1": "after1",
-                    "after2": "after2",
-                    "after3": "after3",
-                    "after4": "after4"
+    "shared": {
+        "camera": {
+            "settings": {
+                "network": {
+                    "negotiate_speed": "Auto {speed}",
+                    "auth": {
+                        "header": "Authentication",
+                        "_802_1x": "802.1x",
+                        "profile": {},
+                        "title": "Profile",
+                        "example_placeholder": "Auth Profile",
+                        "example_list_element": "Example Profile",
+                        "config_name": {
+                            "title": "Configuration Name"
+                        },
+                        "placeholder": "Profile 1"
+                    },
+                    "eap_identity": {
+                        "title": "EAP Identity",
+                        "placeholder": "Identity"
+                    },
+                    "tls_client_cert": {
+                        "title": "TLS Client Certificates"
+                    },
+                    "private_key": {
+                        "title": "Private Key"
+                    },
+                    "private_key_pwd": {},
+                    "title": "Private Key Password",
+                    "placeholder": "Passwords",
+                    "authenticate_server": "Authenticate Server"
                 }
             }
         }
